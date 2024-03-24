@@ -18,10 +18,46 @@
   scroll-behavior: smooth;
 }
 
+.container {
+    max-width: 1200px;
+    padding: 0 22px;
+    margin: 0 auto;
+}
+.banner_text {
+    display: block;
+    color: #D4786E;
+    font-family: "Fredericka the Great", serif;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 0;
+    line-height: 1.3;
+    cursor: pointer;
+}
+.banner {
+    position: relative;
+    z-index: 3;
+    padding: 11px 0;
+    background-color: #FCD0D0;
+    text-align: center;
+}
+
 .site-logo {
     color: #fff;
     width: auto;
-    height: 220px;
+    height: 250px;
+}
+
+.bg-red {
+    background-color: #D4786E;
+}
+
+.bg-pink {
+    background-color: #FCD0D0;
+}
+
+.bg-orange {
+    background-color: #FDD691;
 }
 
 .baumans-regular {
@@ -29,6 +65,18 @@
     font-weight: 400;
     font-style: normal;
 }
+
+.fredericka-the-great-regular {
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.menu-titles {
+    font-size: 25px;
+}
+
 
 .text-gradient {
   background: radial-gradient(
@@ -90,10 +138,6 @@
 
 .box-shadow {
   box-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
-}
-
-.bg-red {
-    background-color: #D4786E;
 }
 
 .sidebar {
@@ -159,4 +203,10 @@
 .white__gradient {
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
+}
+
+@media (max-width: 768px) {
+    .menu-titles {
+        font-size: 16px;
+    }
 }
