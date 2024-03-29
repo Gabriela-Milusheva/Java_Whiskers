@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Stats = () => {
+const CatPage = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default Stats;
+export default CatPage;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const GetStarted = () => {
+const CartPage = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default GetStarted;
+export default CartPage;

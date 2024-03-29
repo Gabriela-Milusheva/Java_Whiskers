@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const OrderPage = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default Button;
+export default OrderPage;

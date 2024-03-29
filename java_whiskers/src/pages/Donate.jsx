@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Clients = () => {
+const Donate = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default Clients;
+export default Donate;

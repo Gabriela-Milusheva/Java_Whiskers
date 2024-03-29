@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CTA = () => {
+const Book = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default CTA;
+export default Book;

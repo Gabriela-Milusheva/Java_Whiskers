@@ -1,6 +1,7 @@
 import React from 'react';
+import { useState } from "react";
 
-const CardDeal = () => {
+const RulesSection = () => {
     return (
         <div>
             
@@ -8,4 +9,4 @@ const CardDeal = () => {
     );
 };
 
-export default CardDeal;
+export default RulesSection;

@@ -1,17 +1,22 @@
-// here we are going to create the structure and the layout
-//in this App we are going to import all the other components and then we are going them one by one
 import React from 'react';
+import styles from './style.js';
 import { Routes, Route } from 'react-router-dom'
 
-import styles from './style.js';
 import {  Footer, Navbar, Hero } from "./components";
 import {red_wave_navbar, logo1, cat1, cat5} from "./assets/index.js";
-import {Book, CartPage, CatPage, Donate, Home, Menu, OrderPage, OurCats, ProductPage, Shop} from "./pages";
+import {  Book, CartPage, CatPage, Donate, Home, Menu, OrderPage, OurCats, ProductPage, Shop} from "./pages";
 
-const App = () => (
-    //to start creating the layout
-    //we are creating a div that is going to wrap our intire application
-    <div>
+const Appp = () => {
+    return (
+        <body className="">
+
+        <section className="banner">
+            <div className="banner__container popup-modal">
+                <a herf="#booking" className="banner_text ">BOOK NOW! For ypur purrfecttt
+                    kitty experience!</a>
+            </div>
+        </section>
+
         <Routes>
             <Route path="/" element={<Home/>}/>
             <Route path="/cats" element={<OurCats/>}/>
@@ -25,7 +30,10 @@ const App = () => (
             <Route path="/cat/:id" element={<CatPage/>}/>
             <Route path="/product/:id" element={<ProductPage/>}/>
         </Routes>
-    </div>
-);
+        </body>
+    );
+};
 
-export default App;
+export default Appp;
+
+

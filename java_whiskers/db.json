@@ -1,0 +1,52 @@
+{
+  "Atmosphere_Gallery": [
+    {
+      "id": 1,
+      "imgSrc": "/src/assets/gallery/g_1.jpg"
+    },
+    {
+      "id": 2,
+      "imgSrc": "/src/assets/gallery/g_2.jpg"
+    },
+    {
+      "id": 3,
+      "imgSrc": "/src/assets/gallery/g_3.jpg"
+    },
+    {
+      "id": 4,
+      "imgSrc": "/src/assets/gallery/g_4.jpg"
+    },
+    {
+      "id": 5,
+      "imgSrc": "/src/assets/gallery/g_5.jpg"
+    },
+    {
+      "id": 6,
+      "imgSrc": "/src/assets/gallery/g_6.jpg"
+    },
+    {
+      "id": 7,
+      "imgSrc": "/src/assets/gallery/g_7.jpg"
+    },
+    {
+      "id": 8,
+      "imgSrc": "/src/assets/gallery/g_8.jpg"
+    },
+    {
+      "id": 9,
+      "imgSrc": "/src/assets/gallery/g_9.jpg"
+    },
+    {
+      "id": 10,
+      "imgSrc": "/src/assets/gallery/g_10.jpg"
+    },
+    {
+      "id": 11,
+      "imgSrc": "/src/assets/gallery/g_11.jpg"
+    },
+    {
+      "id": 12,
+      "imgSrc": "/src/assets/gallery/g_12.jpg"
+    }
+  ]
+}

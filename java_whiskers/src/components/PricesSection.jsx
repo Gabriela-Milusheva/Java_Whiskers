@@ -1,6 +1,7 @@
 import React from 'react';
+import { useState } from "react";
 
-const Testimonials = () => {
+const PricesSection = () => {
     return (
         <div>
             
@@ -8,4 +9,4 @@ const Testimonials = () => {
     );
 };
 
-export default Testimonials;
+export default PricesSection;

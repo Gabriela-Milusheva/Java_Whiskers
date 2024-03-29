@@ -11,11 +11,7 @@ export const navLinks = [
         title: "Prices",
     },
     {
-        id: "book",
-        title: "To Book",
-    },
-    {
-        id: "cats",
+        id: "our_cats",
         title: "Our Cats",
     },
     {
@@ -27,16 +23,19 @@ export const navLinks = [
         title: "Shop",
     },
     {
-        id: "rescue",
-        title: "Rescue",
-    },
-    {
         id: "donate",
         title: "Donate",
     },
     {
         id: "rules",
         title: "Rulse",
+    },
+];
+
+export const navButtons = [
+    {
+        id: "book_table",
+        title: "Book a table",
     },
 ];
 
@@ -94,18 +93,18 @@ export const feedback = [
 export const stats = [
     {
         id: "stats-1",
-        title: "User Active",
-        value: "3800+",
+        title: "Cats in the cafe",
+        value: "20+",
     },
     {
         id: "stats-2",
-        title: "Trusted by Company",
-        value: "230+",
+        title: "Adopted cats",
+        value: "60+",
     },
     {
         id: "stats-3",
-        title: "Transaction",
-        value: "$230M+",
+        title: "Happy customers",
+        value: "1200+",
     },
 ];
 
