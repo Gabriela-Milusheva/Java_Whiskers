@@ -47,6 +47,217 @@
     {
       "id": 12,
       "imgSrc": "/src/assets/gallery/g_12.jpg"
+    },
+    {
+      "id": 13,
+      "imgSrc": "/src/assets/gallery/g_13.jpg"
+    },
+    {
+      "id": 14,
+      "imgSrc": "/src/assets/gallery/g_14.jpg"
+    },
+    {
+      "id": 15,
+      "imgSrc": "/src/assets/gallery/g_15.jpg"
+    },
+    {
+      "id": 16,
+      "imgSrc": "/src/assets/gallery/g_16.jpg"
+    },
+    {
+      "id": 17,
+      "imgSrc": "/src/assets/gallery/g_17.jpg"
+    },
+    {
+      "id": 18,
+      "imgSrc": "/src/assets/gallery/g_18.jpg"
+    },
+    {
+      "id": 19,
+      "imgSrc": "/src/assets/gallery/g_19.jpg"
+    },
+    {
+      "id": 20,
+      "imgSrc": "/src/assets/gallery/g_20.jpg"
+    },
+    {
+      "id": 21,
+      "imgSrc": "/src/assets/gallery/g_21.jpg"
+    },
+    {
+      "id": 22,
+      "imgSrc": "/src/assets/gallery/g_22.jpg"
+    },
+    {
+      "id": 23,
+      "imgSrc": "/src/assets/gallery/g_23.jpg"
+    },
+    {
+      "id": 24,
+      "imgSrc": "/src/assets/gallery/g_24.jpg"
     }
+  ],
+  "Our_Cats": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "imgs": "/src/assets/our_cats/Cherry",
+      "gender": "female",
+      "dob": " 20/08/2018",
+      "desc": "Cherry is not just a cat, she's the cherry on top of your purr-fect day, with a sweetness that's impossible to resist."
+    },
+    {
+      "id": 2,
+      "name": "Cheese",
+      "imgs": "/src/assets/our_cats/Cheese",
+      "gender": "male",
+      "dob": "28/03/2016",
+      "desc": "Cheese is not just a cat, he's a purr-fectly aged block of cheddar with a personality as sharp as his whiskers."
+    },
+    {
+      "id": 3,
+      "name": "Teddy",
+      "imgs": "/src/assets/our_cats/Teddy",
+      "gender": "male",
+      "dob": "05/10/2018",
+      "desc": "Teddy is the cuddle commander, always ready to snuggle up and melt your heart with his fuzzy wuzziness."
+    },
+    {
+      "id": 4,
+      "name": "Cinnamon",
+      "imgs": "/src/assets/our_cats/Cinnamon",
+      "gender": "male",
+      "dob": "14/01/2015",
+      "desc": "Cinnamon is the spice of life, with a dash of mischief and a sprinkle of charm that will leave you feline fine."
+    },
+    {
+      "id": 5,
+      "name": "Crystal",
+      "imgs": "/src/assets/our_cats/Crystal",
+      "gender": "female",
+      "dob": "21/06/2020",
+      "desc": "Crystal, the feline enchantress, her eyes sparkling like precious gems, casting a spell of charm that's simply irresistible."
+    },
+    {
+      "id": 6,
+      "name": "Cookie",
+      "imgs": "/src/assets/our_cats/Cookie",
+      "gender": "male",
+      "dob": "04/11/2018",
+      "desc": "Cookie is the treat thief, stealthily swiping snacks when you're not looking and leaving crumbs in his wake."
+    },
+    {
+      "id": 7,
+      "name": "Gin",
+      "imgs": "/src/assets/our_cats/Gin",
+      "gender": "male",
+      "dob": "14/07/2017",
+      "desc": "The Houdini of the cafe, you'll never know where he's lurking, but you'll definitely feel his presence when he chooses to emerge from the shadows for treats."
+    },
+    {
+      "id": 8,
+      "name": "Nala",
+      "imgs": "/src/assets/our_cats/Nala",
+      "gender": "female",
+      "dob": "25/08/2022",
+      "desc": "Nala, like a true queen, reigns not only over hearts but also over every cat tower in the cafe."
+    },
+    {
+      "id": 9,
+      "name": "Rocky",
+      "imgs": "/src/assets/our_cats/Rocky",
+      "gender": "male",
+      "dob": "05/04/2022",
+      "desc": "Rocky is the heavyweight champion of cuddles, delivering knockout snuggles with a paw-nding force."
+    },
+    {
+      "id": 10,
+      "name": "Oliver",
+      "imgs": "/src/assets/our_cats/Oliver",
+      "gender": "male",
+      "dob": "12/01/2016",
+      "desc": "A master of the disapproving side-eye and the dramatic hiss. Consider yourself warned, mere mortals!"
+    },
+    {
+      "id": 11,
+      "name": "Stormy",
+      "imgs": "/src/assets/our_cats/Stormy",
+      "gender": "female",
+      "dob": "09/02/2023",
+      "desc": "Stormy is the tempestuous tabby, with a whirlwind of energy and a thunderous purr that shakes the cafe."
+    },
+    {
+      "id": 12,
+      "name": "Simba",
+      "imgs": "/src/assets/our_cats/Simba",
+      "gender": "male",
+      "dob": "17/10/2020",
+      "desc": "Simba is the lion-hearted legend, with a mane of fur fit for a king and a meow that echoes through the savanna (or cafe)."
+    },
+    {
+      "id": 13,
+      "name": "Ollie",
+      "imgs": "/src/assets/our_cats/Ollie",
+      "gender": "male",
+      "dob": "18/06/2022",
+      "desc": "Ollie is a fluffy adventurer, always exploring new nooks and crannies with boundless curiosity, that's infectious to everyone around him."
+    },
+    {
+      "id": 14,
+      "name": "Tiger",
+      "imgs": "/src/assets/our_cats/Tiger",
+      "gender": "male",
+      "dob": "22/09/2017",
+      "desc": "Tiger is the striped sensation, prowling through the house with the grace and power of his wild ancestors."
+    },
+    {
+      "id": 15,
+      "name": "Popcorn",
+      "imgs": "/src/assets/our_cats/Popcorn",
+      "gender": "male",
+      "dob": "19/01/2021",
+      "desc": "The cat who operates on treats and chin scratches. Brainpower not included (but who needs it when you're this cute?)."
+    },
+    {
+      "id": 16,
+      "name": "Icy",
+      "imgs": "/src/assets/our_cats/Icy",
+      "gender": "female",
+      "dob": "10/08/2020",
+      "desc": "Icy, the frosty princess, glides through the cafe with an elegance and a majestic gaze commanding attention and adoration."
+    },
+    {
+      "id": 17,
+      "name": "Star",
+      "imgs": "/src/assets/our_cats/Star",
+      "gender": "female",
+      "dob": "27/12/2023",
+      "desc": "Star is a shining star in the cat constellation, with a sparkle in her eye and a twinkle in her whiskers."
+    },
+    {
+      "id": 18,
+      "name": "Diesel",
+      "imgs": "/src/assets/our_cats/Diesel",
+      "gender": "male",
+      "dob": "15/06/2022",
+      "desc": "Diesel is the engine of excitement, revving up playtime with turbocharged zoomies and high-octane antics."
+    },
+    {
+      "id": 19,
+      "name": "Sky",
+      "imgs": "/src/assets/our_cats/Sky",
+      "gender": "male",
+      "dob": "17/11/2018",
+      "desc": "Sky, the intrepid skydiver, leaps through the cafe with fearless feline finesse, chasing adventure with every bound."
+    },
+    {
+      "id": 20,
+      "name": "Angel",
+      "imgs": "/src/assets/our_cats/Angel",
+      "gender": "female",
+      "dob": "07/03/2022",
+      "desc": "Angel is the heavenly helper, with a halo of fur and a heart of gold that brings joy to all who meet her."
+    }
+
   ]
 }

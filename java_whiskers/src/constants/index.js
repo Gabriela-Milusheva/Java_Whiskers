@@ -5,30 +5,32 @@ export const navLinks = [
     {
         id: "home",
         title: "Home",
-    },
-    {
-        id: "prices",
-        title: "Prices",
+        link: "/"
     },
     {
         id: "our_cats",
         title: "Our Cats",
+        link: "/our_cats"
     },
     {
         id: "menu",
         title: "Menu",
+        link: "/menu"
     },
     {
         id: "shop",
         title: "Shop",
+        link: "/shop"
     },
     {
         id: "donate",
         title: "Donate",
+        link: "/donate"
     },
     {
         id: "rules",
         title: "Rulse",
+        link: "/rules"
     },
 ];
 
@@ -36,6 +38,14 @@ export const navButtons = [
     {
         id: "book_table",
         title: "Book a table",
+    },
+    {
+        id: "view_more",
+        title: "View more ▼",
+    },
+    {
+        id: "view_less",
+        title: "View less ▲",
     },
 ];
 

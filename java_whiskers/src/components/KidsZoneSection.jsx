@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const KidsZoneSection = () => {
     return (
-        <div>
+        <div className="kids-zone_container">
             
         </div>
     );
