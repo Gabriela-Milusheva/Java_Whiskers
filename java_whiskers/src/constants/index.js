@@ -13,9 +13,9 @@ export const navLinks = [
         link: "/our_cats"
     },
     {
-        id: "menu",
+        id: "cafe_menu",
         title: "Menu",
-        link: "/menu"
+        link: "/cafe_menu"
     },
     {
         id: "shop",
@@ -47,6 +47,36 @@ export const navButtons = [
         id: "view_less",
         title: "View less ▲",
     },
+    {
+        id:"download_menu",
+        title: "Download menu (pdf)",
+    }
+];
+export const shopCategories = [
+    {
+        id: "1",
+        title: "Mugs",
+        img: "/src/assets/products/Mugs/cat-mug-6/cat-mug-6-1.jpg",
+        desc: "Unique ceramic mugs handmade with love.",
+    },
+    {
+        id: "2",
+        title: "Pins",
+        img: "/src/assets/products/Pins/pin-Gin/pin-Gin-2.jpg",
+        desc: "Cute wooden pins for every cat lover.",
+    },
+    {
+        id: "3",
+        title: "Necklaces",
+        img: "/src/assets/products/Necklaces/necklace-Crystal/necklace-Crystal-1.jpg",
+        desc: "Adorable wooden necklaces with stainless steel chain",
+    },
+    {
+        id:"4",
+        title: "Bags",
+        img: "/src/assets/products/Bags/bag-1/bag-1-1.jpg",
+        desc: "Eco-friendly & reusable cotton tote bags.",
+    }
 ];
 
 export const features = [

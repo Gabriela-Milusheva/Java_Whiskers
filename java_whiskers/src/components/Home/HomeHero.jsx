@@ -1,9 +1,8 @@
 import React from 'react';
-import { useState } from "react";
-import { pink_top_wave, hero_cat1, hero_cat2} from "../assets/index.js";
-import "../index.css";
+import { pink_top_wave, hero_cat1, hero_cat2} from "../../assets/index.js";
+import "../../index.css";
 
-const Hero = () => {
+const HomeHero = () => {
     return (
         <div className="hero-container overflow-hidden relative">
             <img src={hero_cat1} alt="" className="hidden-on-smaller absolute h-auto "
@@ -26,4 +25,4 @@ const Hero = () => {
     );
 };
 
-export default Hero;
+export default HomeHero;

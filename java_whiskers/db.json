@@ -258,6 +258,306 @@
       "dob": "07/03/2022",
       "desc": "Angel is the heavenly helper, with a halo of fur and a heart of gold that brings joy to all who meet her."
     }
+  ],
+  "Cafe_Menu": [
+    {
+      "page-id": 1,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-1.jpg"
+    },
+    {
+      "page-id": 2,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-2.jpg"
+    },
+    {
+      "page-id": 3,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-3.jpg"
+    },
+    {
+      "page-id": 4,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-4.jpg"
+    },
+    {
+      "page-id": 5,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-5.jpg"
+    },
+    {
+      "page-id": 6,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-6.jpg"
+    },
+    {
+      "page-id": 7,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-7.jpg"
+    },
+    {
+      "page-id": 8,
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-8.jpg"
+    }
+  ],
+  "Shop_Products": [
+    {
+      "id": 1,
+      "category": "bags",
+      "title": "Cute Cat Tote Bag",
+      "imgs": "/src/assets/products/Bags/bag-1/bag-1",
+      "numImgs": 4,
+      "desc": " Introducing our adorable 'Sorry, I Can't I Have Plans With My Cat' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
+      "price": 15.90
+    },
+    {
+      "id": 2,
+      "category": "bags",
+      "title": "Cat Portraits Tote Bag",
+      "imgs": "/src/assets/products/Bags/bag-2/bag-2",
+      "numImgs": 4,
+      "desc": " Introducing our adorable 'Cat Portraits' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
+      "price": 16.90
+    },
+    {
+      "id": 3,
+      "category": "bags",
+      "title": "I Get Everything I Want Tote Bag",
+      "imgs": "/src/assets/products/Bags/bag-3/bag-3",
+      "numImgs": 4,
+      "desc": " Introducing our adorable 'I Get Everything I Want' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
+      "price": 15.90
+    },
+    {
+      "id": 4,
+      "category": "bags",
+      "title": "Chubby Cat Tote Bag",
+      "imgs": "/src/assets/products/Bags/bag-4/bag-4",
+      "numImgs": 4,
+      "desc": " Introducing our adorable 'Chubby Cat' Tote Bag- a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
+      "price": 14.90
+    },
+
+    {
+      "id": 5,
+      "category": "mugs",
+      "title": "British Shorthair Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-1/cat-mug-1",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 38.90
+    },
+    {
+      "id": 6,
+      "category": "mugs",
+      "title": "British Shorthair Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-2/cat-mug-2",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic British Shorthair Silver Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 38.90
+    },
+    {
+      "id": 7,
+      "category": "mugs",
+      "title": "Siamese Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-3/cat-mug-3",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Siamese Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 37.90
+    },
+    {
+      "id": 8,
+      "category": "mugs",
+      "title": "Long Hair Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-4/cat-mug-4",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Long Hair Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+    {
+      "id": 9,
+      "category": "mugs",
+      "title": "Siamese Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-5/cat-mug-5",
+      "numImgs": 2,
+      "desc": "Our 'Ceramic Siamese/British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 37.90
+    },
+    {
+      "id": 10,
+      "category": "mugs",
+      "title": "Long Hair Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-6/cat-mug-6",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Long Hair Orange & White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+    {
+      "id": 11,
+      "category": "mugs",
+      "title": "American Shorthair Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-7/cat-mug-7",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic American Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+    {
+      "id": 12,
+      "category": "mugs",
+      "title": "Orange & White Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-8/cat-mug-8",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Orange & White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+    {
+      "id": 13,
+      "category": "mugs",
+      "title": "American Shorthair Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-9/cat-mug-9",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic American Shorthair Grey Cat  Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+    {
+      "id": 14,
+      "category": "mugs",
+      "title": "British Shorthair Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-10/cat-mug-10",
+      "numImgs": 3,
+      "desc": "Ceramic British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 37.90
+    },
+    {
+      "id": 15,
+      "category": "mugs",
+      "title": "Shorthair Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-11/cat-mug-11",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Exotic Shorthair Coffee Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 38.90
+    },
+    {
+      "id": 16,
+      "category": "mugs",
+      "title": "Long Hair Cat Mug",
+      "imgs": "/src/assets/products/Mugs/cat-mug-12/cat-mug-12",
+      "numImgs": 3,
+      "desc": "Our 'Ceramic Long Hair Brown and White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
+      "price": 39.90
+    },
+
+    {
+      "id": 17,
+      "category": "necklaces",
+      "title": "Angel Necklace",
+      "imgs": "/src/assets/products/Necklaces/necklace-Angel/necklace-Angel",
+      "numImgs": 4,
+      "desc": "Show your love for Angel with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
+      "price": 18.90
+    },
+    {
+      "id": 18,
+      "category": "necklaces",
+      "title": "Crystal Necklace",
+      "imgs": "/src/assets/products/Necklaces/necklace-Crystal/necklace-Crystal",
+      "numImgs": 4,
+      "desc": "Show your love for Crystal with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
+      "price": 18.90
+    },
+    {
+      "id": 19,
+      "category": "necklaces",
+      "title": "Gin Necklace",
+      "imgs": "/src/assets/products/Necklaces/necklace-Gin/necklace-Gin",
+      "numImgs": 4,
+      "desc": "Show your love for Gin with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
+      "price": 18.90
+    },
+    {
+      "id": 20,
+      "category": "necklaces",
+      "title": "Star Necklace",
+      "imgs": "/src/assets/products/Necklaces/necklace-Star/necklace-Star",
+      "numImgs": 4,
+      "desc": "Show your love for Star with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
+      "price": 18.90
+    },
+
+    {
+      "id": 21,
+      "category": "pins",
+      "title": "Angel Pin",
+      "imgs": "/src/assets/products/Pins/pin-Angel/pin-Angel",
+      "numImgs": 3,
+      "desc": "Show your love for Angel with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 22,
+      "category": "pins",
+      "title": "Cheese Pin",
+      "imgs": "/src/assets/products/Pins/pin-Cheese/pin-Cheese",
+      "numImgs": 3,
+      "desc": "Show your love for Cheese with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 23,
+      "category": "pins",
+      "title": "Cinnamon Pin",
+      "imgs": "/src/assets/products/Pins/pin-Cinnamon/pin-Cinnamon",
+      "numImgs": 3,
+      "desc": "Show your love for Cinnamon with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 24,
+      "category": "pins",
+      "title": "Crystal Pin",
+      "imgs": "/src/assets/products/Pins/pin-Crystal/pin-Crystal",
+      "numImgs": 3,
+      "desc": "Show your love for Crystal with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 25,
+      "category": "pins",
+      "title": "Gin Pin",
+      "imgs": "/src/assets/products/Pins/pin-Gin/pin-Gin",
+      "numImgs": 3,
+      "desc": "Show your love for Gin with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 26,
+      "category": "pins",
+      "title": "Icy Pin",
+      "imgs": "/src/assets/products/Pins/pin-Icy/pin-Icy",
+      "numImgs": 3,
+      "desc": "Show your love for Icy with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 27,
+      "category": "pins",
+      "title": "Nala Pin",
+      "imgs": "/src/assets/products/Pins/pin-Nala/pin-Nala",
+      "numImgs": 3,
+      "desc": "Show your love for Nala with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 28,
+      "category": "pins",
+      "title": "Star Pin",
+      "imgs": "/src/assets/products/Pins/pin-Star/pin-Star",
+      "numImgs": 3,
+      "desc": "Show your love for Star with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    },
+    {
+      "id": 29,
+      "category": "pins",
+      "title": "Stormy Pin",
+      "imgs": "/src/assets/products/Pins/pin-Stormy/pin-Stormy",
+      "numImgs": 3,
+      "desc": "Show your love for Stormy with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
+      "price": 13.90
+    }
 
   ]
 }

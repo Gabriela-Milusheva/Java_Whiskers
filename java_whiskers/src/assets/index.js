@@ -35,11 +35,22 @@ import cat8 from "./cats_design/cat8.png";
 import cat6 from "./cats_design/cat6.png";
 import cat4 from "./cats_design/cat4.png";
 import cat7 from "./cats_design/cat7.png";
+import cat11 from "./cats_design/cat11.png";
 import hero_cat1 from "./hero-cat1.jpg";
 import hero_cat2 from "./hero-cat2.jpg";
 import circle_paw from "./circle-paw.jpg";
 import cat_paw_left from "./cat_paw_left.png";
 import cat_paw_right from "./cat_paw_right.png";
+import cat_list from "./documents/cat-list.pdf";
+import cats_stikers from "./documents/cats-stikers.pdf";
+import cafe_menu from "./documents/cafe-menu.pdf";
+import paws_left from "./paws-left.png";
+import paws_right from "./paws-rightt.png";
+import shop_hero_cat from "./shop-hero-cat.png";
+import orange_cats_background from "./orange-cats-background-1.png";
+import pink_background_paws from "./pink-background-paws.png";
+import pink_background_paws_1 from "./pink-background-paws-1.png";
+import cats_background from "./cats-background.png";
 
 export {
   airbnb,
@@ -79,9 +90,20 @@ export {
   cat6,
   cat4,
   cat7,
+  cat11,
   hero_cat1,
   hero_cat2,
   circle_paw,
   cat_paw_left,
-  cat_paw_right
+  cat_paw_right,
+  cat_list,
+  cats_stikers,
+  cafe_menu,
+  paws_left,
+  paws_right,
+  shop_hero_cat,
+  orange_cats_background,
+  pink_background_paws,
+  pink_background_paws_1,
+  cats_background
 };

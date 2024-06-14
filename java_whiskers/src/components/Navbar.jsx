@@ -34,10 +34,7 @@ const Navbar = () => {
                                     <Link to={nav.link} className="menu-titles englebert-regular">{nav.title}</Link>
                                 </li>
                             ))}
-                            <button
-                                className="nav_button popup-modal cursor-pointer rounded-md"
-                                style={{marginLeft: '40px'}}
-                            >
+                            <button className="nav_button popup-modal cursor-pointer rounded-md" style={{marginLeft: '40px'}}>
                                 {bookTableButton.title.toUpperCase()}
                             </button>
                         </ul>

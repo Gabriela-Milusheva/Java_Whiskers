@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react';
-import "../index.css";
-import { Atmosphere_Gallery } from '../../db.json';
-import { navButtons } from "../constants";
-import {orange_top_wave} from "../assets/index.js";
+import React, { useState } from 'react';
+import "../../index.css";
+import { Atmosphere_Gallery } from '../../../db.json';
+import { navButtons } from "../../constants/index.js";
+import {orange_top_wave} from "../../assets/index.js";
 
-const AtmosphereSection = () => {
+const AtmosphereGallery = () => {
     const dataImages = Atmosphere_Gallery;
     const viewMoreButton = navButtons.find(button => button.id === 'view_more');
     const viewLessButton = navButtons.find(button => button.id === 'view_less');
@@ -80,4 +80,4 @@ const AtmosphereSection = () => {
     );
 };
 
-export default AtmosphereSection;
+export default AtmosphereGallery;

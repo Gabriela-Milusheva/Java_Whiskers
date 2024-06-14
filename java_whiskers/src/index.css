@@ -18,13 +18,7 @@
   scroll-behavior: smooth;
 }
 
-.home-page{
-    color: #D4786E;
-    max-width: 100%;
-    max-height: 100%;
-}
-.our_cats-page{
-    color: #FCD0D0;
+.page{
     max-width: 100%;
     max-height: 100%;
 }
@@ -141,13 +135,7 @@
     color: #FDD691;
 }
 
-.hero-title1,
-.hero-title2,
-.hero-title3{
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-}
+
 
 .hero-container {
     width: 100%;
@@ -189,10 +177,30 @@
     font-size: 35px;
     color: #FDD691;
 }
+
+.hero-title1,
+.hero-title2,
+.hero-title3{
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
 .hero-desc{
     font-family: "Combo", system-ui;
     font-size: 25px;
     color: #A28B89;
+}
+
+.hero-title5{
+    background-color: #FDD691;
+    font-family: "Combo", system-ui;
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-top: 20px;
 }
 
 @media (max-width: 991px){
@@ -248,7 +256,7 @@
     overflow: hidden;
 }
 .gallery .pics:hover{
-    filter: drop-shadow(8px 8px 10px #3A3A3A);
+    filter: drop-shadow(8px 10px 15px rgba(0, 0, 0, 0.1));
     transition: 0.6s;
 }
 @media (max-width: 991px){
@@ -399,14 +407,12 @@
 
 
 
-
-
 .cats-gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 20px;
     background-color: #FCD0D0;
+    padding-bottom: 50px;
 }
 
 .cat-card {
@@ -416,6 +422,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
+    margin: 20px;
 }
 .cat-name {
     margin-top: 10px;
@@ -607,6 +614,339 @@
     transition: 0.6s;
 }
 
+
+.download_button {
+    font-family: "Englebert", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    border: 3.2px solid #FDD691;
+    color: #FDD691;
+    border-radius: 33px;
+    padding: 5px 22px;
+    position: relative;
+    top: 35px;
+}
+.download_button:hover {
+    background-color: #FDD691;
+    color: white;
+}
+
+.cafe-menu-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: #FDD691;
+    padding-bottom: 50px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.paws-left,
+.paws-right {
+    position: absolute;
+    top: 907px;
+    bottom: 0;
+    height: 105%;
+    z-index: 0;
+}
+
+.paws-left {
+    left: 0;
+}
+
+.paws-right {
+    right: 0;
+}
+.demoPage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+.shop-categories {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 2rem;
+    overflow-x: auto;
+}
+
+.shop-category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    text-align: center;
+    width: 280px; /* Adjust based on your design */
+    margin: 0 1rem; /* Add some horizontal margin between cards */
+    transition: transform 0.2s ease-in-out;
+    flex: 0 0 auto; /* Ensure cards do not shrink */
+}
+
+.shop-category-card:hover {
+    transform: scale(1.05);
+}
+
+.shop-category-image {
+    height: 240px; /* Adjust height as needed */
+    width: 200px; /* Adjust width as needed */
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.shop-category-title {
+    font-size: 40px;
+    margin-top: 0.5rem;
+    font-family: "Smooch", cursive;
+    color: #FDD691;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.shop-category-description {
+    margin-bottom: 0.5rem;
+    text-align: center;
+    font-family: "Combo", system-ui;
+    font-size: 20px;
+    color: #A28B89;
+}
+
+.shop-category-link {
+    font-family: "Combo", system-ui;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 33px;
+    padding: 4.5px 18px;
+    background-color: #FDD691;
+}
+.shop-category-link:hover {
+    animation: pulse 0.6s infinite;
+    transition: 0.6s;
+}
+
+
+.filters {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FDD691;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: "Combo", system-ui;
+}
+
+.left-filters {
+    flex: 1;
+}
+
+.right-filters {
+    flex: 1;
+    text-align: right;
+}
+.sort-filter-options{
+    font-size: 20px;
+    color: #FDD691;
+    font-family: "Combo", system-ui;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.shop-gallery {
+    display: flex;
+    background-color: #FDD691;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.product-card {
+    width: 300px;
+    height: 390px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+    margin: 20px;
+    position: relative;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+.product-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.product-info {
+    padding: 10px;
+}
+
+.product-title {
+    font-size: 20px;
+    color: #D4786E;
+    margin-top: 0.5rem;
+    font-family: "Combo", system-ui;
+}
+
+.product-price {
+    font-size: 20px;
+    color: #A28B89;
+    margin-top: 5px;
+    font-family: "Combo", system-ui;
+}
+
+.add-to-cart {
+    position: absolute;
+    bottom: 89px;
+    left: 0;
+    right: 0;
+    background-color: #FDD691;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    font-family: "Combo", system-ui;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.product-card:hover .add-to-cart {
+    opacity: 1;
+}
+.add-to-cart:hover {
+    background-color: #D4786E;
+    transition: background-color 0.6s;
+}
+
+.cart-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.heart-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    color: white; /* default color */
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.heart-icon:hover {
+    color: white;
+}
+
+.heart-icon.liked {
+    color: #D4786E;
+}
+
+
+
+
+
+
+.product-details-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    pointer-events: none;
+}
+
+.product-details-modal.open {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.product-details-content-wrapper {
+    position: relative;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    width: 100%;
+}
+
+
+.product-details-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-details-images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-detail-image {
+    max-width: 100%;
+    margin: 10px;
+}
+
+.product-details-info {
+    text-align: center;
+}
+
+.product-details-name {
+    margin: 20px 0;
+}
+.image-navigation .left-button,
+.image-navigation .right-button {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+
+
+
+
 .text-gradient {
   background: radial-gradient(
           64.18% 64.18% at 71.16% 35.69%,
@@ -676,22 +1016,18 @@
 
 @-webkit-keyframes slide-top {
   0% {
-    -webkit-transform: translateY(100px);
     transform: translateY(100px);
   }
   100% {
-    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 }
 
 @keyframes slide-top {
   0% {
-    -webkit-transform: translateY(100px);
     transform: translateY(100px);
   }
   100% {
-    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 }
