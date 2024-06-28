@@ -9,13 +9,16 @@ const CafeMenuHero = () => {
 
     return (
         <div className="hero-container overflow-hidden relative">
+
             <img src={cat4} alt="" className="hidden-on-smaller absolute h-auto"
                  style={{zIndex: -1, top: '90px', left: '-10px', height: '300px'}}/>
             <img src={cat7} alt="" className="hidden-on-smaller absolute h-auto"
                  style={{zIndex: -1, top: '190px', right: '-40px', height: '300px'}}/>
 
             <div className="hero-content">
+
                 <h2 className="hero-title1">Our Menu</h2>
+
                 <p className="hero-desc">
                     All of our food is prepared by our team of trained kitchen staff from the sealed glass
                     kitchen
@@ -24,12 +27,14 @@ const CafeMenuHero = () => {
                     from our
                     Food Standard rating of 5 - something the kitties are very proud of!
                 </p>
+
                 <a href={cafe_menu} download
                    className="download_button popup-modal font-poppins font-normal cursor-pointer px-4 py-2 rounded-md uppercase"
-                   style={{marginLeft: '40px'}}>
+                   style={{marginLeft: '40px', top: '35px'}}>
                     {downloadMenuButton.title.toUpperCase()}
                 </a>
             </div>
+
             <img src={orange_top_wave} alt="" className="absolute-behind w-full bottom-0"
                  style={{zIndex: 10}}/>
 

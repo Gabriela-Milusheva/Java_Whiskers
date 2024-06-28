@@ -1,23 +1,29 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Home, CafeMenu, Donate, Book, CartPage, OrderPage, CatPage, Shop, OurCats } from './pages';
-import {ShopProductDetails} from './components';
+import { Home, CafeMenu, BookNowDialog,  Shop, OurCats, KidsZone } from './pages';
+import { ShopProductDetails } from './components';
 
-const App = () => (
+
+function App() {
+
+return (
     <div>
+
+        {/* дефиниране на навигац. контейнер */}
         <Routes>
+
+            {/* дефиниране на рутове за различните страници (страницата която ще се показва, когато потребителя отиде на определен адрес)*/}
             <Route path="/" element={<Home />} />
             <Route path="/our_cats" element={<OurCats />} />
             <Route path="/cafe_menu" element={<CafeMenu />} />
             <Route path="/shop" element={<Shop />} />
-            <Route path="/donate" element={<Donate />} />
-            <Route path="/book" element={<Book />} />
-            <Route path="/cart" element={<CartPage />} />
-            <Route path="/order" element={<OrderPage />} />
-            <Route path="/cat/:id" element={<CatPage />} />
-            <Route path="/product/:id" element={<ShopProductDetails />} />
+            <Route path="/kids_zone" element={<KidsZone />} />
+            <Route path="/product/:id" element={<ShopProductDetails/>} />
+            <Route path="/book" element={<BookNowDialog />} />
         </Routes>
     </div>
-);
+ )
+}
+
 
 export default App;

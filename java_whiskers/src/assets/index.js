@@ -27,6 +27,7 @@ import red_wave_navbar from "./red_wave_navbar.svg";
 import orange_top_wave from "./orange_top_wave.svg";
 import orange_bottom_wave from "./orange_bottom_wave.svg";
 import pink_top_wave from "./pink_top_wave.png";
+import red_top_wave from "./red_top_wave.svg";
 import waves_up from "./waves_up.png";
 import waves_down from "./waves_down.png";
 import cat1 from "./cats_design/cat1.png";
@@ -41,16 +42,24 @@ import hero_cat2 from "./hero-cat2.jpg";
 import circle_paw from "./circle-paw.jpg";
 import cat_paw_left from "./cat_paw_left.png";
 import cat_paw_right from "./cat_paw_right.png";
-import cat_list from "./documents/cat-list.pdf";
-import cats_stikers from "./documents/cats-stikers.pdf";
-import cafe_menu from "./documents/cafe-menu.pdf";
+import cafe_menu from "./documents/java-whiskers-cafe-menu.pdf";
 import paws_left from "./paws-left.png";
 import paws_right from "./paws-rightt.png";
 import shop_hero_cat from "./shop-hero-cat.png";
 import orange_cats_background from "./orange-cats-background-1.png";
 import pink_background_paws from "./pink-background-paws.png";
 import pink_background_paws_1 from "./pink-background-paws-1.png";
+import light_pink_background_paws from "./light-pink-background-paws.png";
 import cats_background from "./cats-background.png";
+import girl_hugging_cat from "./girl-hugging-cat.webp";
+import orange_speech_bubble from "./orange-speech-bubble.png";
+import cats_play_1 from "./cats-play-1.webp";
+import cats_play_2 from "./cats-play-2.webp";
+import cats_play_3 from "./cats-play-3.webp";
+import cats_play_4 from "./cats-play-4.png";
+import cats_play_5 from "./cats-play-5.webp";
+import cat_paw_latte from "./cat-paw-latte-art.webp";
+import user_cat_photo from "./user-cat-photo.png"
 
 export {
   airbnb,
@@ -81,6 +90,7 @@ export {
   red_wave_navbar,
   orange_top_wave,
   orange_bottom_wave,
+  red_top_wave,
   pink_top_wave,
   waves_up,
   waves_down,
@@ -96,14 +106,22 @@ export {
   circle_paw,
   cat_paw_left,
   cat_paw_right,
-  cat_list,
-  cats_stikers,
   cafe_menu,
   paws_left,
   paws_right,
   shop_hero_cat,
   orange_cats_background,
   pink_background_paws,
+  light_pink_background_paws,
   pink_background_paws_1,
-  cats_background
+  cats_background,
+  girl_hugging_cat,
+  orange_speech_bubble,
+  cats_play_1,
+  cats_play_2,
+  cats_play_3,
+  cats_play_4,
+  cats_play_5,
+  cat_paw_latte,
+  user_cat_photo
 };

@@ -15,7 +15,6 @@ const OurCats = () => {
                     <Footer/>
                 </div>
             </div>
-
         </div>
     );
 };

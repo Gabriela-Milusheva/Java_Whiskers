@@ -11,19 +11,8 @@ const AtmosphereGallery = () => {
 
     const [model, setModel] =useState(false);
     const [tempImgSrc, setTempImgSrc] =useState('');
-    const [visibleImages, setVisibleImages] = useState(dataImages.length/2); // Изобразете само първите 12 снимки
+    const [visibleImages, setVisibleImages] = useState(dataImages.length/2); // служи за изобразяване само на първата половина
 
-    const getImg = (imgSrc) => {
-        setTempImgSrc(imgSrc);
-        setModel(true);
-        document.body.style.overflow = 'hidden';
-    };
-
-    const handleCloseModel = () => {
-        setModel(false);
-        // Enable scrolling when the model is closed
-        document.body.style.overflow = 'auto';
-    };
 
     const handleViewMore = () => {
         setVisibleImages(prevVisibleImages => prevVisibleImages + 12);
@@ -33,10 +22,24 @@ const AtmosphereGallery = () => {
         setVisibleImages(prevVisibleImages => prevVisibleImages - 12);
     };
 
+    //отваряне на снимката на голям екран
+    const getImg = (imgSrc) => {
+        setTempImgSrc(imgSrc);
+        setModel(true);
+        document.body.style.overflow = 'hidden';
+    };
+
+    const handleCloseModel = () => {
+        setModel(false);
+
+        document.body.style.overflow = 'auto';
+    };
+
 
     return (
         <div className="atmosphere_container">
             <div>
+
                 <h1 className="atmosphere_title">
                     Atmosphere
                 </h1>
@@ -47,7 +50,7 @@ const AtmosphereGallery = () => {
                 </div>
 
                 <div className="gallery">
-                    {dataImages.slice(0, visibleImages).map((item, index) => { // Изобразете само първите visibleImages снимки
+                    {dataImages.slice(0, visibleImages).map((item, index) => { // Изобразете само първите visibleImages
                         return (
                             <div className="pics" key={index} onClick={() => getImg(item.imgSrc)}>
                                 <img src={item.imgSrc} alt=""/>
@@ -55,6 +58,7 @@ const AtmosphereGallery = () => {
                         )
                     })}
                 </div>
+
                 {visibleImages < dataImages.length && (
                     <button
                         className="view_button popup-modal font-poppins font-normal cursor-pointer px-4 py-2 rounded-md uppercase"
@@ -64,7 +68,8 @@ const AtmosphereGallery = () => {
                         {viewMoreButton.title.toUpperCase()}
                     </button>
                 )}
-                {visibleImages == dataImages.length && (
+
+                {visibleImages === dataImages.length && (
                     <button
                         className="view_button popup-modal font-poppins font-normal cursor-pointer px-4 py-2 rounded-md uppercase"
                         style={{marginLeft: '40px'}}
@@ -73,9 +78,9 @@ const AtmosphereGallery = () => {
                         {viewLessButton.title.toUpperCase()}
                     </button>
                 )}
-            </div>
-            <img src={orange_top_wave} alt="" className="absolute-behind w-full bottom-0" style={{zIndex: 10}}/>
 
+            </div>
+            
         </div>
     );
 };

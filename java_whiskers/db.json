@@ -1,105 +1,105 @@
 {
   "Atmosphere_Gallery": [
     {
-      "id": 1,
+      "id": "1",
       "imgSrc": "/src/assets/gallery/g_1.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "imgSrc": "/src/assets/gallery/g_2.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "imgSrc": "/src/assets/gallery/g_3.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "imgSrc": "/src/assets/gallery/g_4.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "imgSrc": "/src/assets/gallery/g_5.jpg"
     },
     {
-      "id": 6,
+      "id": "6",
       "imgSrc": "/src/assets/gallery/g_6.jpg"
     },
     {
-      "id": 7,
+      "id": "7",
       "imgSrc": "/src/assets/gallery/g_7.jpg"
     },
     {
-      "id": 8,
+      "id": "8",
       "imgSrc": "/src/assets/gallery/g_8.jpg"
     },
     {
-      "id": 9,
+      "id": "9",
       "imgSrc": "/src/assets/gallery/g_9.jpg"
     },
     {
-      "id": 10,
+      "id": "10",
       "imgSrc": "/src/assets/gallery/g_10.jpg"
     },
     {
-      "id": 11,
+      "id": "11",
       "imgSrc": "/src/assets/gallery/g_11.jpg"
     },
     {
-      "id": 12,
+      "id": "12",
       "imgSrc": "/src/assets/gallery/g_12.jpg"
     },
     {
-      "id": 13,
+      "id": "13",
       "imgSrc": "/src/assets/gallery/g_13.jpg"
     },
     {
-      "id": 14,
+      "id": "14",
       "imgSrc": "/src/assets/gallery/g_14.jpg"
     },
     {
-      "id": 15,
+      "id": "15",
       "imgSrc": "/src/assets/gallery/g_15.jpg"
     },
     {
-      "id": 16,
+      "id": "16",
       "imgSrc": "/src/assets/gallery/g_16.jpg"
     },
     {
-      "id": 17,
+      "id": "17",
       "imgSrc": "/src/assets/gallery/g_17.jpg"
     },
     {
-      "id": 18,
+      "id": "18",
       "imgSrc": "/src/assets/gallery/g_18.jpg"
     },
     {
-      "id": 19,
+      "id": "19",
       "imgSrc": "/src/assets/gallery/g_19.jpg"
     },
     {
-      "id": 20,
+      "id": "20",
       "imgSrc": "/src/assets/gallery/g_20.jpg"
     },
     {
-      "id": 21,
+      "id": "21",
       "imgSrc": "/src/assets/gallery/g_21.jpg"
     },
     {
-      "id": 22,
+      "id": "22",
       "imgSrc": "/src/assets/gallery/g_22.jpg"
     },
     {
-      "id": 23,
+      "id": "23",
       "imgSrc": "/src/assets/gallery/g_23.jpg"
     },
     {
-      "id": 24,
+      "id": "24",
       "imgSrc": "/src/assets/gallery/g_24.jpg"
     }
   ],
   "Our_Cats": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Cherry",
       "imgs": "/src/assets/our_cats/Cherry",
       "gender": "female",
@@ -107,7 +107,7 @@
       "desc": "Cherry is not just a cat, she's the cherry on top of your purr-fect day, with a sweetness that's impossible to resist."
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Cheese",
       "imgs": "/src/assets/our_cats/Cheese",
       "gender": "male",
@@ -115,7 +115,7 @@
       "desc": "Cheese is not just a cat, he's a purr-fectly aged block of cheddar with a personality as sharp as his whiskers."
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Teddy",
       "imgs": "/src/assets/our_cats/Teddy",
       "gender": "male",
@@ -123,7 +123,7 @@
       "desc": "Teddy is the cuddle commander, always ready to snuggle up and melt your heart with his fuzzy wuzziness."
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Cinnamon",
       "imgs": "/src/assets/our_cats/Cinnamon",
       "gender": "male",
@@ -131,7 +131,7 @@
       "desc": "Cinnamon is the spice of life, with a dash of mischief and a sprinkle of charm that will leave you feline fine."
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Crystal",
       "imgs": "/src/assets/our_cats/Crystal",
       "gender": "female",
@@ -139,7 +139,7 @@
       "desc": "Crystal, the feline enchantress, her eyes sparkling like precious gems, casting a spell of charm that's simply irresistible."
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Cookie",
       "imgs": "/src/assets/our_cats/Cookie",
       "gender": "male",
@@ -147,7 +147,7 @@
       "desc": "Cookie is the treat thief, stealthily swiping snacks when you're not looking and leaving crumbs in his wake."
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Gin",
       "imgs": "/src/assets/our_cats/Gin",
       "gender": "male",
@@ -155,7 +155,7 @@
       "desc": "The Houdini of the cafe, you'll never know where he's lurking, but you'll definitely feel his presence when he chooses to emerge from the shadows for treats."
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Nala",
       "imgs": "/src/assets/our_cats/Nala",
       "gender": "female",
@@ -163,7 +163,7 @@
       "desc": "Nala, like a true queen, reigns not only over hearts but also over every cat tower in the cafe."
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Rocky",
       "imgs": "/src/assets/our_cats/Rocky",
       "gender": "male",
@@ -171,7 +171,7 @@
       "desc": "Rocky is the heavyweight champion of cuddles, delivering knockout snuggles with a paw-nding force."
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Oliver",
       "imgs": "/src/assets/our_cats/Oliver",
       "gender": "male",
@@ -179,7 +179,7 @@
       "desc": "A master of the disapproving side-eye and the dramatic hiss. Consider yourself warned, mere mortals!"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Stormy",
       "imgs": "/src/assets/our_cats/Stormy",
       "gender": "female",
@@ -187,7 +187,7 @@
       "desc": "Stormy is the tempestuous tabby, with a whirlwind of energy and a thunderous purr that shakes the cafe."
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Simba",
       "imgs": "/src/assets/our_cats/Simba",
       "gender": "male",
@@ -195,7 +195,7 @@
       "desc": "Simba is the lion-hearted legend, with a mane of fur fit for a king and a meow that echoes through the savanna (or cafe)."
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Ollie",
       "imgs": "/src/assets/our_cats/Ollie",
       "gender": "male",
@@ -203,7 +203,7 @@
       "desc": "Ollie is a fluffy adventurer, always exploring new nooks and crannies with boundless curiosity, that's infectious to everyone around him."
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Tiger",
       "imgs": "/src/assets/our_cats/Tiger",
       "gender": "male",
@@ -211,7 +211,7 @@
       "desc": "Tiger is the striped sensation, prowling through the house with the grace and power of his wild ancestors."
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Popcorn",
       "imgs": "/src/assets/our_cats/Popcorn",
       "gender": "male",
@@ -219,7 +219,7 @@
       "desc": "The cat who operates on treats and chin scratches. Brainpower not included (but who needs it when you're this cute?)."
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Icy",
       "imgs": "/src/assets/our_cats/Icy",
       "gender": "female",
@@ -227,7 +227,7 @@
       "desc": "Icy, the frosty princess, glides through the cafe with an elegance and a majestic gaze commanding attention and adoration."
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Star",
       "imgs": "/src/assets/our_cats/Star",
       "gender": "female",
@@ -235,7 +235,7 @@
       "desc": "Star is a shining star in the cat constellation, with a sparkle in her eye and a twinkle in her whiskers."
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Diesel",
       "imgs": "/src/assets/our_cats/Diesel",
       "gender": "male",
@@ -243,7 +243,7 @@
       "desc": "Diesel is the engine of excitement, revving up playtime with turbocharged zoomies and high-octane antics."
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Sky",
       "imgs": "/src/assets/our_cats/Sky",
       "gender": "male",
@@ -251,7 +251,7 @@
       "desc": "Sky, the intrepid skydiver, leaps through the cafe with fearless feline finesse, chasing adventure with every bound."
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Angel",
       "imgs": "/src/assets/our_cats/Angel",
       "gender": "female",
@@ -262,302 +262,500 @@
   "Cafe_Menu": [
     {
       "page-id": 1,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-1.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-1.jpg",
+      "id": "86ab"
     },
     {
       "page-id": 2,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-2.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-2.jpg",
+      "id": "3a74"
     },
     {
       "page-id": 3,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-3.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-3.jpg",
+      "id": "18ed"
     },
     {
       "page-id": 4,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-4.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-4.jpg",
+      "id": "a56b"
     },
     {
       "page-id": 5,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-5.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-5.jpg",
+      "id": "aa56"
     },
     {
       "page-id": 6,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-6.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-6.jpg",
+      "id": "59c1"
     },
     {
       "page-id": 7,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-7.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-7.jpg",
+      "id": "76c0"
     },
     {
       "page-id": 8,
-      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-8.jpg"
+      "imgSrc": "/src/assets/documents/cafe_menu/cafe-menu_page-8.jpg",
+      "id": "f9a0"
     }
   ],
   "Shop_Products": [
     {
-      "id": 1,
+      "id": "1",
       "category": "bags",
       "title": "Cute Cat Tote Bag",
       "imgs": "/src/assets/products/Bags/bag-1/bag-1",
       "numImgs": 4,
-      "desc": " Introducing our adorable 'Sorry, I Can't I Have Plans With My Cat' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
-      "price": 15.90
+      "desc": " Introducing our adorable 'Sorry, I Can't. I Have Plans With My Cat' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
+      "price": 15.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Miss Chees",
+          "reviewId": 7,
+          "content": "Does it come in Meowllow?",
+          "starRating": "2"
+        }
+      ]
     },
     {
-      "id": 2,
+      "id": "2",
       "category": "bags",
       "title": "Cat Portraits Tote Bag",
       "imgs": "/src/assets/products/Bags/bag-2/bag-2",
       "numImgs": 4,
       "desc": " Introducing our adorable 'Cat Portraits' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
-      "price": 16.90
+      "price": 16.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Megachonker123",
+          "reviewId": 329,
+          "content": "Very cute tote bag, but unfortunately I'm too chonky to fit in. :((",
+          "starRating": "2"
+        },
+        {
+          "reviewerUsername": "Anonymous",
+          "reviewId": 714,
+          "content": "jfghglk;j;lkj;ljhf",
+          "starRating": "4"
+        },
+        {
+          "reviewerUsername": "kmkmv",
+          "reviewId": 423,
+          "content": "jnjnj",
+          "starRating": "2"
+        }
+      ]
     },
     {
-      "id": 3,
+      "id": "3",
       "category": "bags",
       "title": "I Get Everything I Want Tote Bag",
       "imgs": "/src/assets/products/Bags/bag-3/bag-3",
       "numImgs": 4,
       "desc": " Introducing our adorable 'I Get Everything I Want' Tote Bag, a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
-      "price": 15.90
+      "price": 15.9,
+      "reviews": []
     },
     {
-      "id": 4,
+      "id": "4",
       "category": "bags",
       "title": "Chubby Cat Tote Bag",
       "imgs": "/src/assets/products/Bags/bag-4/bag-4",
       "numImgs": 4,
       "desc": " Introducing our adorable 'Chubby Cat' Tote Bag- a purrfect accessory for any cat lover! Crafted from 100% soft cotton and measuring 38 x 42 cm, this tote offers plenty of space for all your essentials (and maybe a treat or two for your feline friend).",
-      "price": 14.90
+      "price": 14.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Mr. Cat",
+          "reviewId": 29,
+          "content": "Needs more strings, I love strings!",
+          "starRating": "2"
+        },
+        {
+          "reviewerUsername": "Noodle Doodle Caboodle",
+          "reviewId": 480,
+          "content": "A tote bag a day, keeps the vet away",
+          "starRating": "5"
+        }
+      ]
     },
-
     {
-      "id": 5,
+      "id": "5",
       "category": "mugs",
       "title": "British Shorthair Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-1/cat-mug-1",
       "numImgs": 3,
       "desc": "Our 'Ceramic British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 38.90
+      "price": 38.9,
+      "reviews": []
     },
     {
-      "id": 6,
+      "id": "6",
       "category": "mugs",
       "title": "British Shorthair Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-2/cat-mug-2",
       "numImgs": 3,
       "desc": "Our 'Ceramic British Shorthair Silver Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 38.90
+      "price": 38.9,
+      "reviews": []
     },
     {
-      "id": 7,
+      "id": "7",
       "category": "mugs",
       "title": "Siamese Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-3/cat-mug-3",
       "numImgs": 3,
       "desc": "Our 'Ceramic Siamese Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 37.90
+      "price": 37.9,
+      "reviews": []
     },
     {
-      "id": 8,
+      "id": "8",
       "category": "mugs",
       "title": "Long Hair Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-4/cat-mug-4",
       "numImgs": 3,
       "desc": "Our 'Ceramic Long Hair Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": []
     },
     {
-      "id": 9,
+      "id": "9",
       "category": "mugs",
       "title": "Siamese Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-5/cat-mug-5",
       "numImgs": 2,
       "desc": "Our 'Ceramic Siamese/British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 37.90
+      "price": 37.9,
+      "reviews": []
     },
     {
-      "id": 10,
+      "id": "10",
       "category": "mugs",
       "title": "Long Hair Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-6/cat-mug-6",
       "numImgs": 3,
       "desc": "Our 'Ceramic Long Hair Orange & White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Mochi",
+          "reviewId": 238,
+          "content": "i liked the box it came in",
+          "starRating": "5"
+        },
+        {
+          "reviewerUsername": "Anonymous",
+          "reviewId": 540,
+          "content": "HOW DO I TURN OFF THE CAPS LOCK?",
+          "starRating": "2"
+        },
+        {
+          "reviewerUsername": "Pspspspsps",
+          "reviewId": 540,
+          "content": "Was not full of tuna, 0/10!!!",
+          "starRating": "1"
+        },
+        {
+          "reviewerUsername": "Meow ",
+          "reviewId": 114,
+          "content": "Meow Meow Meow Meow ",
+          "starRating": "4"
+        }
+      ]
     },
     {
-      "id": 11,
+      "id": "11",
       "category": "mugs",
       "title": "American Shorthair Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-7/cat-mug-7",
       "numImgs": 3,
       "desc": "Our 'Ceramic American Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": []
     },
     {
-      "id": 12,
+      "id": "12",
       "category": "mugs",
       "title": "Orange & White Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-8/cat-mug-8",
       "numImgs": 3,
       "desc": "Our 'Ceramic Orange & White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": []
     },
     {
-      "id": 13,
+      "id": "13",
       "category": "mugs",
       "title": "American Shorthair Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-9/cat-mug-9",
       "numImgs": 3,
       "desc": "Our 'Ceramic American Shorthair Grey Cat  Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": []
     },
     {
-      "id": 14,
+      "id": "14",
       "category": "mugs",
       "title": "British Shorthair Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-10/cat-mug-10",
       "numImgs": 3,
       "desc": "Ceramic British Shorthair Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 37.90
+      "price": 37.9,
+      "reviews": []
     },
     {
-      "id": 15,
+      "id": "15",
       "category": "mugs",
       "title": "Shorthair Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-11/cat-mug-11",
       "numImgs": 3,
       "desc": "Our 'Ceramic Exotic Shorthair Coffee Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 38.90
+      "price": 38.9,
+      "reviews": []
     },
     {
-      "id": 16,
+      "id": "16",
       "category": "mugs",
       "title": "Long Hair Cat Mug",
       "imgs": "/src/assets/products/Mugs/cat-mug-12/cat-mug-12",
       "numImgs": 3,
       "desc": "Our 'Ceramic Long Hair Brown and White Cat Mug' is purrfect for your morning meowccachino or evening catnip tea! Handmade and paw-painted with love, it's guaranteed to bring you coziness with every sip.",
-      "price": 39.90
+      "price": 39.9,
+      "reviews": []
     },
-
     {
-      "id": 17,
+      "id": "17",
       "category": "necklaces",
       "title": "Angel Necklace",
       "imgs": "/src/assets/products/Necklaces/necklace-Angel/necklace-Angel",
       "numImgs": 4,
       "desc": "Show your love for Angel with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
-      "price": 18.90
+      "price": 18.9,
+      "reviews": []
     },
     {
-      "id": 18,
+      "id": "18",
       "category": "necklaces",
       "title": "Crystal Necklace",
       "imgs": "/src/assets/products/Necklaces/necklace-Crystal/necklace-Crystal",
       "numImgs": 4,
       "desc": "Show your love for Crystal with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
-      "price": 18.90
+      "price": 18.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Meow Meow",
+          "reviewId": 812,
+          "content": "Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow ",
+          "starRating": "5"
+        }
+      ]
     },
     {
-      "id": 19,
+      "id": "19",
       "category": "necklaces",
       "title": "Gin Necklace",
       "imgs": "/src/assets/products/Necklaces/necklace-Gin/necklace-Gin",
       "numImgs": 4,
       "desc": "Show your love for Gin with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
-      "price": 18.90
+      "price": 18.9,
+      "reviews": []
     },
     {
-      "id": 20,
+      "id": "20",
       "category": "necklaces",
       "title": "Star Necklace",
       "imgs": "/src/assets/products/Necklaces/necklace-Star/necklace-Star",
       "numImgs": 4,
       "desc": "Show your love for Star with this adorable wooden necklace! Whether as a gift or a personal treat, this necklace embodies unique style and affection for one of the cafe's favorite felines.",
-      "price": 18.90
+      "price": 18.9,
+      "reviews": []
     },
-
     {
-      "id": 21,
+      "id": "21",
       "category": "pins",
       "title": "Angel Pin",
       "imgs": "/src/assets/products/Pins/pin-Angel/pin-Angel",
       "numImgs": 3,
       "desc": "Show your love for Angel with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 22,
+      "id": "22",
       "category": "pins",
       "title": "Cheese Pin",
       "imgs": "/src/assets/products/Pins/pin-Cheese/pin-Cheese",
       "numImgs": 3,
       "desc": "Show your love for Cheese with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 23,
+      "id": "23",
       "category": "pins",
       "title": "Cinnamon Pin",
       "imgs": "/src/assets/products/Pins/pin-Cinnamon/pin-Cinnamon",
       "numImgs": 3,
       "desc": "Show your love for Cinnamon with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 24,
+      "id": "24",
       "category": "pins",
       "title": "Crystal Pin",
       "imgs": "/src/assets/products/Pins/pin-Crystal/pin-Crystal",
       "numImgs": 3,
       "desc": "Show your love for Crystal with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": [
+        {
+          "reviewerUsername": "Anonymous",
+          "reviewId": 637,
+          "content": "",
+          "starRating": "5"
+        }
+      ]
     },
     {
-      "id": 25,
+      "id": "25",
       "category": "pins",
       "title": "Gin Pin",
       "imgs": "/src/assets/products/Pins/pin-Gin/pin-Gin",
       "numImgs": 3,
       "desc": "Show your love for Gin with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 26,
+      "id": "26",
       "category": "pins",
       "title": "Icy Pin",
       "imgs": "/src/assets/products/Pins/pin-Icy/pin-Icy",
       "numImgs": 3,
       "desc": "Show your love for Icy with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 27,
+      "id": "27",
       "category": "pins",
       "title": "Nala Pin",
       "imgs": "/src/assets/products/Pins/pin-Nala/pin-Nala",
       "numImgs": 3,
       "desc": "Show your love for Nala with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 28,
+      "id": "28",
       "category": "pins",
       "title": "Star Pin",
       "imgs": "/src/assets/products/Pins/pin-Star/pin-Star",
       "numImgs": 3,
       "desc": "Show your love for Star with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     },
     {
-      "id": 29,
+      "id": "29",
       "category": "pins",
       "title": "Stormy Pin",
       "imgs": "/src/assets/products/Pins/pin-Stormy/pin-Stormy",
       "numImgs": 3,
       "desc": "Show your love for Stormy with this adorable wooden pin! Perfect to accessorise your clothes, backpack or as a gift for friends and family.",
-      "price": 13.90
+      "price": 13.9,
+      "reviews": []
     }
-
+  ],
+  "Kids_Games": [
+    {
+      "id": "1",
+      "icon": "/src/assets/icon-game-differences.svg",
+      "docSrc": "/src/assets/documents/java-whiskers-cafe-spot-the-difference.pdf",
+      "title": "DIFFERENCES",
+      "desc": "Test your eagle eye and find the differences between these two kitties!"
+    },
+    {
+      "id": "2",
+      "icon": "/src/assets/icon-game-maze.svg",
+      "docSrc": "/src/assets/documents/java-whiskers-cafe-kitty-maze.pdf",
+      "title": "KITTY MAZE",
+      "desc": "Can you help our stranded kitty find her way back to her furry friends?"
+    },
+    {
+      "id": "3",
+      "icon": "/src/assets/icon-game-finder.svg",
+      "docSrc": "/src/assets/documents/java-whiskers-cafe-kitty-finder.pdf",
+      "title": "KITTY FINDER",
+      "desc": "Bring this with you and add your favourite felines when you spot them!"
+    },
+    {
+      "id": "4",
+      "icon": "/src/assets/icon-game-stickers.svg",
+      "docSrc": "/src/assets/documents/java-whiskers-cafe-kitty-stickers.pdf",
+      "title": "KITTY STICKERS",
+      "desc": "Complete our Kitty Finder with these adorable Kitty Stickers!"
+    }
+  ],
+  "Cart": [],
+  "Orders": [
+    {
+      "id": "5d3a",
+      "name": "Meow Meow Meow",
+      "phone": "456",
+      "address": "paw paw paw",
+      "products": [
+        {
+          "productId": "2",
+          "productTitle": "Cat Portraits Tote Bag",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": "3b7e",
+      "name": "Pspsps",
+      "phone": "789",
+      "address": "meow",
+      "products": [
+        {
+          "productId": "8",
+          "productTitle": "Long Hair Cat Mug",
+          "quantity": 1
+        },
+        {
+          "productId": "3",
+          "productTitle": "I Get Everything I Want Tote Bag",
+          "quantity": 1
+        },
+        {
+          "productId": "24",
+          "productTitle": "Crystal Pin",
+          "quantity": 1
+        },
+        {
+          "productId": "10",
+          "productTitle": "Long Hair Cat Mug",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "21bf",
+      "name": "Gabby",
+      "phone": "94994",
+      "address": "l;lf;;ll",
+      "products": [
+        {
+          "productId": "2",
+          "productTitle": "Cat Portraits Tote Bag",
+          "quantity": 3
+        }
+      ]
+    }
   ]
 }

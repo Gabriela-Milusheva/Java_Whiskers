@@ -1,19 +1,20 @@
 import React from 'react';
 import styles from "../style.js";
-import {ShopHero, ShopProductsGallery, Footer, Navbar} from "../components/index.js";
+import {Footer, Navbar, KidsZoneHero, KidsZoneGames} from "../components/index.js";
+import {orange_top_wave} from "../assets/index.js";
 
-const Shop = () => {
+const KidsZone = () => {
 
     return (
         <div className={`page ${styles.flexStart}`}>
             <div className={`${styles.boxWidth}`}>
                 <Navbar/>
-                <ShopHero/>
-                <ShopProductsGallery/>
+                <KidsZoneHero/>
+                <KidsZoneGames/>
                 <Footer/>
             </div>
         </div>
     );
 };
 
-export default Shop;
+export default KidsZone;

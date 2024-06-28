@@ -23,15 +23,10 @@ export const navLinks = [
         link: "/shop"
     },
     {
-        id: "donate",
-        title: "Donate",
-        link: "/donate"
-    },
-    {
-        id: "rules",
-        title: "Rulse",
-        link: "/rules"
-    },
+        id: "kids_zone",
+        title: "Kids Zone",
+        link: "/kids_zone"
+    }
 ];
 
 export const navButtons = [
