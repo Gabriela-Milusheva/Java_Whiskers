@@ -1,5 +1,4 @@
 {
-  "homepage": "https://gabriela-milusheva.github.io/Java_Whiskers",
   "name": "java_whiskers",
   "private": true,
   "version": "0.0.0",
@@ -10,9 +9,7 @@
     "start": "npm run server & npm run dev",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
