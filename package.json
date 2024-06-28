@@ -15,11 +15,17 @@
     "react-pageflip": "^2.0.3",
     "react-router-dom": "^6.23.1"
   },
+  "homepage": "https://gabriela-milusheva.github.io/Java_Whiskers",
   "name": "java_whiskers",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
