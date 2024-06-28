@@ -155,6 +155,7 @@ const ShopProductsGallery = () => {
                             <option value="necklaces">Necklace</option>
                             <option value="pins">Pins</option>
                         </select>
+
                     </label>
                 </div>
 
